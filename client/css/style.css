@@ -1,0 +1,9 @@
+a {
+    text-decoration: none;
+}
+
+.page_item{
+    border: 1px solid #ccc;
+    padding: 5px 9px;
+    color: #000;
+}
